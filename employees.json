@@ -1,0 +1,22 @@
+{
+      "employees": [
+        {
+          "empid": "1",
+          "firstName": "Tom",
+          "lastName": "Cruise",
+          "projectId" : "project1"
+        },
+        {
+          "empid": "2",
+          "firstName": "Maria",
+          "lastName": "Sharapova",
+          "projectId" : "project2"
+        },
+        {
+          "empid": "3",
+          "firstName": "James",
+          "lastName": "Bond",
+          "projectId" : "project1"
+        }
+      ]
+  }

@@ -1,0 +1,16 @@
+{
+    "projects" : [
+        {
+            "projectId" : "project1",
+            "projectName" : "IT India"
+        },
+        {
+            "projectId" : "project2",
+            "projectName" : "IT US"
+        },
+        {
+            "projectId" : "project3",
+            "projectName" : "IT UK"
+        }
+    ]
+}
